@@ -46,7 +46,7 @@ Maximum secret length: 64 bytes
 
 ## Output
 
-The script generates a file named `restored.key` containing the HMAC-SHA1 hash that can be used in place of a physical YubiKey to access the keepass database.
+The script generates a file named `restored.key` containing the HMAC-SHA1 hash that can be used in place of a physical YubiKey or OnlyKey to access the keepass database.
 
 ## Error Handling
 
